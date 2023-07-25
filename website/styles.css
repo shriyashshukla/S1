@@ -1,0 +1,26 @@
+body {
+    padding-top: 60px;
+    /* Adjust this value based on your navbar height */
+}
+
+/* Example: Styling the hero section */
+.hero-section {
+    background-image: url('imageme.jpg');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.hero-heading {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-subheading {
+    font-size: 20px;
+}
