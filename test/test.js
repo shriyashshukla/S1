@@ -1,4 +1,4 @@
-console.log("helooo");
+{console.log("helooo");
 let a =67;
 console.log(a);
 a="shriyash";
@@ -17,3 +17,9 @@ const d={
 };
 d['friend']="hari";
 console.log(d);
+}
+
+console.log("this is program for addation ");
+let a=45;
+let b=4;
+console.log("a+b",a+b)
